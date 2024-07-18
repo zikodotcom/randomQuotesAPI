@@ -1,9 +1,9 @@
 const mysql = require('mysql');
 const connection = mysql.createConnection({
-    host: 'sql304.infinityfree.com',
-    user: 'if0_36857789',
-    password: 'a0Nym6S8g2SUfg',
-    database: 'if0_36857789_quotesDB'
+    host: 'sql7.freesqldatabase.com',
+    user: 'sql7720516',
+    password: '36l2snw3p5',
+    database: 'sql7720516'
   })
   
   module.exports = connection;
